@@ -1,0 +1,1145 @@
+{
+    "competencies": [
+        {
+            "name": "HTML",
+            "topics": [
+                {
+                    "name": "Структура HTML документа",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Понимание структуры документа HTML, включая DOCTYPE, html, head и body"
+                        }
+                    ]
+                },
+                {
+                    "name": "Базовые HTML-элементы",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с заголовками, абзацами, списками, ссылками, изображениями, div и span"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML формы",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Создание форм с input, select, textarea, button и реализация валидации"
+                        }
+                    ]
+                },
+                {
+                    "name": "Медиа-элементы HTML",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование img, video, audio, canvas и SVG для медиа-контента"
+                        }
+                    ]
+                },
+                {
+                    "name": "Атрибуты HTML-элементов",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Применение id, class, data-*, aria-* и понимание глобальных атрибутов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Мета-теги HTML",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование meta для SEO, настройки viewport и метаданных страницы"
+                        }
+                    ]
+                },
+                {
+                    "name": "Семантическая разметка",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Применение семантических элементов HTML5: header, footer, article, section, nav для доступности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Доступность HTML",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Применение ARIA-атрибутов, совместимость с экранными читателями и навигация с клавиатуры"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CSS",
+            "topics": [
+                {
+                    "name": "Селекторы CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование классов, ID, атрибутов, псевдоклассов и понимание специфичности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Блочная модель CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Понимание content, padding, border, margin и свойства box-sizing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Фон в CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с фоновыми цветами, изображениями, градиентами и позиционированием"
+                        }
+                    ]
+                },
+                {
+                    "name": "Макеты в CSS",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Flexbox и CSS Grid, а также float и display"
+                        }
+                    ]
+                },
+                {
+                    "name": "Позиционирование в CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "static, relative, absolute, fixed, sticky и z-index"
+                        }
+                    ]
+                },
+                {
+                    "name": "Типографика в CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Шрифты, межстрочный интервал, интервал между буквами, выравнивание текста и веб-шрифты"
+                        }
+                    ]
+                },
+                {
+                    "name": "Адаптивный дизайн",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Реализация адаптивных макетов с media queries, viewport-единицами и mobile-first подходом"
+                        }
+                    ]
+                },
+                {
+                    "name": "Функции CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование calc(), var(), rgb(), hsl() и создание градиентов"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS-переменные",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Работа с пользовательскими свойствами CSS, область видимости, фолбэки и темы"
+                        }
+                    ]
+                },
+                {
+                    "name": "Анимации в CSS",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Создание анимаций с keyframes, transitions, transforms и оптимизация производительности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Псевдоклассы CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Применение :hover, :focus, :nth-child() и селекторов состояния форм"
+                        }
+                    ]
+                },
+                {
+                    "name": "Псевдоэлементы CSS",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование ::before, ::after, ::first-letter, ::selection для декоративного контента"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core JavaScript",
+            "topics": [
+                {
+                    "name": "Типы данных JavaScript",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Понимание примитивов, объектов, приведения типов и оператора typeof"
+                        }
+                    ]
+                },
+                {
+                    "name": "Переменные",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с var, let, const, понимание hoisting и временной мёртвой зоны"
+                        }
+                    ]
+                },
+                {
+                    "name": "Операторы",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Арифметические, сравнения, логические, присваивание и тернарный операторы"
+                        }
+                    ]
+                },
+                {
+                    "name": "Условные выражения",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "if/else, switch, тернарный оператор и truthy/falsy значения"
+                        }
+                    ]
+                },
+                {
+                    "name": "Функции",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Объявления функций, выражения, стрелочные функции, параметры и возвращаемые значения"
+                        }
+                    ]
+                },
+                {
+                    "name": "Циклы",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "for, while, do-while и методы массивов: forEach, map, filter, reduce"
+                        }
+                    ]
+                },
+                {
+                    "name": "Глобальные объекты",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с Math, Date, JSON, console и объектом window в браузере"
+                        }
+                    ]
+                },
+                {
+                    "name": "Контекст (this)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Понимание контекста функции и метода, стрелочные функции и bind/call/apply"
+                        }
+                    ]
+                },
+                {
+                    "name": "Область видимости",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Глобальная, функциональная, блочная области и лексическая область"
+                        }
+                    ]
+                },
+                {
+                    "name": "Асинхронный код",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Callbacks, Promises, async/await и паттерны обработки ошибок"
+                        }
+                    ]
+                },
+                {
+                    "name": "Цикл событий",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Стек вызовов, очередь задач, очередь микрозадач и цикл рендеринга браузера"
+                        }
+                    ]
+                },
+                {
+                    "name": "События",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Всплытие/перехват, делегирование событий и пользовательские события"
+                        }
+                    ]
+                },
+                {
+                    "name": "ES Modules",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Синтаксис import/export, именованные и экспорт по умолчанию, работа со сборщиками"
+                        }
+                    ]
+                },
+                {
+                    "name": "Методы объектов и массивов",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Освоение map, filter, reduce, Object.keys() и деструктуризации"
+                        }
+                    ]
+                },
+                {
+                    "name": "Чистые функции",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Создание функций без побочных эффектов и основы функционального программирования"
+                        }
+                    ]
+                },
+                {
+                    "name": "Регулярные выражения",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Шаблоны и методы test(), match(), replace() и синтаксис регулярных выражений"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Browser APIs & Web Technologies",
+            "topics": [
+                {
+                    "name": "File API",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Работа с FileReader, Blob, File и загрузкой файлов через FormData"
+                        }
+                    ]
+                },
+                {
+                    "name": "Дата и время",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Использование объекта Date для манипуляций с датой, форматирования, часовых поясов и библиотек"
+                        }
+                    ]
+                },
+                {
+                    "name": "Virtual DOM",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Понимание согласования Virtual DOM, алгоритмов диффинга и оптимизации производительности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shadow DOM",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Инкапсуляция, кастомные элементы, shadow root и слоты"
+                        }
+                    ]
+                },
+                {
+                    "name": "Инструменты разработчика браузера",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Панель Elements, Console, вкладка Network и инструменты профилирования"
+                        }
+                    ]
+                },
+                {
+                    "name": "LocalStorage/SessionStorage",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Клиентское хранилище на LocalStorage и SessionStorage, ограничения"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geolocation API",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Доступ к координатам, разрешения и точность геолокации"
+                        }
+                    ]
+                },
+                {
+                    "name": "Web Workers",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Фоновые потоки для оптимизации производительности и обмен сообщениями"
+                        }
+                    ]
+                },
+                {
+                    "name": "IndexedDB",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Клиентская база данных, транзакции, индексация для офлайн-приложений"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "topics": [
+                {
+                    "name": "Типы в TypeScript",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Базовые типы, объединения, пересечения и псевдонимы типов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Интерфейсы",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Определение формы объектов интерфейсами, optional/readonly и расширение интерфейсов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Enums",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Числовые и строковые enum, const enum и обратные отображения"
+                        }
+                    ]
+                },
+                {
+                    "name": "Аннотации типов",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Аннотации типов для переменных, параметров функций и возвращаемых значений"
+                        }
+                    ]
+                },
+                {
+                    "name": "Utility Types",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Использование Partial, Required, Pick, Omit, Record и условных типов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Декораторы",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Декораторы классов, методов, свойств и параметров"
+                        }
+                    ]
+                },
+                {
+                    "name": "Дженерики",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Параметры типов, обобщённые функции, интерфейсы и ограничения"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Сеть",
+            "topics": [
+                {
+                    "name": "HTTP-запросы",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "GET, POST, PUT, DELETE с использованием fetch API и XMLHttpRequest"
+                        }
+                    ]
+                },
+                {
+                    "name": "Коды состояния HTTP",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Понимание 200, 201, 400, 401, 403, 404, 500, 503 и их значений"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTP-заголовки",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с Content-Type, Authorization, Cache-Control и CORS-заголовками"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookies",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Управление сессионными cookie, сроком жизни, флагами secure и политикой same-site"
+                        }
+                    ]
+                },
+                {
+                    "name": "CORS",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Обработка cross-origin запросов, preflight и управление передачей учётных данных"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTPS/SSL",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Шифрование, SSL-сертификаты, рукопожатие TLS и принципы безопасности"
+                        }
+                    ]
+                },
+                {
+                    "name": "WebSockets",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Реализация двунаправленной связи в реальном времени (WebSockets, socket.io)"
+                        }
+                    ]
+                },
+                {
+                    "name": "WebRTC",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "P2P-коммуникация, видео/аудио и каналы данных"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSH",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Безопасный удалённый доступ к серверам и аутентификация по ключам"
+                        }
+                    ]
+                },
+                {
+                    "name": "DNS",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Разрешение доменных имён, DNS-записи и механизмы кэширования"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Angular",
+            "topics": [
+                {
+                    "name": "Ключевые сущности Angular",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Работа с модулями, компонентами, сервисами, директивами и пайпами в Angular"
+                        }
+                    ]
+                },
+                {
+                    "name": "Директивы",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Структурные директивы (*ngIf, *ngFor), атрибутные и кастомные директивы"
+                        }
+                    ]
+                },
+                {
+                    "name": "Модули",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Организация приложений с NgModule, фиче-модулями, ленивой загрузкой и общими модулями"
+                        }
+                    ]
+                },
+                {
+                    "name": "Компоненты",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Создание компонентов с шаблонами, стилями, хуками жизненного цикла и Input/Output"
+                        }
+                    ]
+                },
+                {
+                    "name": "Сервисы",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Реализация Injectable-сервисов, синглтон-паттерна и разделение бизнес-логики"
+                        }
+                    ]
+                },
+                {
+                    "name": "Пайпы",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Использование встроенных пайпов, создание кастомных, чистые/нечистые и async pipe"
+                        }
+                    ]
+                },
+                {
+                    "name": "Guards",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Реализация CanActivate, CanDeactivate для защиты маршрутов и аутентификации"
+                        }
+                    ]
+                },
+                {
+                    "name": "Resolvers",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Предзагрузка данных и подготовка данных для маршрутов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Маршрутизация",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Настройка роутера, работа с параметрами маршрута, дочерними маршрутами и навигацией"
+                        }
+                    ]
+                },
+                {
+                    "name": "Формы в Angular",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Шаблонные и реактивные формы, валидация и FormBuilder"
+                        }
+                    ]
+                },
+                {
+                    "name": "Обнаружение изменений",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Оптимизация с OnPush, иммутабельность, async pipe и ручное обновление"
+                        }
+                    ]
+                },
+                {
+                    "name": "Инкапсуляция представления",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Понимание Shadow DOM, Emulated, None и изоляции стилей"
+                        }
+                    ]
+                },
+                {
+                    "name": "Внедрение зависимостей",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Работа с providers, инжекторами, иерархическим DI и декоратором Injectable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Build Tools & Architecture",
+            "topics": [
+                {
+                    "name": "Webpack Module Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Внедрение микрофронтендов с общими зависимостями и удалёнными приложениями"
+                        }
+                    ]
+                },
+                {
+                    "name": "Native Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Фреймворк-агностичный шаринг модулей и интеграция на рантайме"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTP Proxy Middleware",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Настройка dev-прокси, моков API и обхода CORS"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Engine vs Ivy Engine",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Различия компиляции Angular, tree-shaking и оптимизации производительности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Бандлеры модулей",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Работа с Webpack, Vite, Rollup для код-сплиттинга и оптимизации ассетов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Testing & Deployment",
+            "topics": [
+                {
+                    "name": "Юнит-тесты",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Написание изолированных тестов, использование тест-дублёров и принципов пирамиды тестирования"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jest",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Тест-раннер Jest, ассерты, моки, снапшоты и отчёты по покрытию"
+                        }
+                    ]
+                },
+                {
+                    "name": "CI/CD",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Реализация конвейеров непрерывной интеграции и деплоя и автоматизации"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSR (Server-Side Rendering)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Использование Angular Universal для SSR, преимущества SEO и производительности"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSG (Static Site Generation)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Статическая генерация, архитектура Jamstack и генерация на этапе сборки"
+                        }
+                    ]
+                },
+                {
+                    "name": "SPA (Single Page Application)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Построение SPA с клиентской маршрутизацией и динамическими обновлениями"
+                        }
+                    ]
+                },
+                {
+                    "name": "PWA (Progressive Web App)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Создание PWA с сервис-воркерами, офлайн-возможностями и app-like опытом"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Software Design & Architecture",
+            "topics": [
+                {
+                    "name": "Ключевые принципы разработки ПО",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Применение DRY, KISS, YAGNI и разделение ответственности"
+                        }
+                    ]
+                },
+                {
+                    "name": "Чистая архитектура",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Слоистая архитектура, правило зависимостей и организация use cases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Принципы SOLID",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Применение SRP, OCP, LSP, ISP, DIP"
+                        }
+                    ]
+                },
+                {
+                    "name": "Структурные паттерны",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Паттерны Adapter, Decorator, Facade, Composite, Proxy"
+                        }
+                    ]
+                },
+                {
+                    "name": "Основы ООП",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Инкапсуляция, наследование, полиморфизм и абстракция"
+                        }
+                    ]
+                },
+                {
+                    "name": "Порождающие паттерны",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Factory, Singleton, Builder, Prototype"
+                        }
+                    ]
+                },
+                {
+                    "name": "Поведенческие паттерны",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Observer, Strategy, Command, Iterator, State"
+                        }
+                    ]
+                },
+                {
+                    "name": "MV-паттерны",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Работа с MVC, MVVM, MVP для разделения ответственности и привязки данных"
+                        }
+                    ]
+                },
+                {
+                    "name": "Инверсия управления",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Внедрение зависимостей, сервис-локатор и IoC-контейнеры"
+                        }
+                    ]
+                },
+                {
+                    "name": "Feature-sliced Design",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Организация кода по фичам с вертикальными срезами и фича-архитектурой"
+                        }
+                    ]
+                },
+                {
+                    "name": "Микрофронтенды",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Построение микрофронтендов с независимым деплоем и автономией команд"
+                        }
+                    ]
+                },
+                {
+                    "name": "GRASP-принципы",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Высокая связность, низкая связанность, Controller, Creator, Pure Fabrication"
+                        }
+                    ]
+                },
+                {
+                    "name": "Module Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Интеграция на рантайме, общие зависимости и федеративная архитектура"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Performance Optimization",
+            "topics": [
+                {
+                    "name": "Core Web Vitals",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Оптимизация LCP (Largest Contentful Paint), FID (First Input Delay), CLS (Cumulative Layout Shift)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Оптимизация бандла",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Код-сплиттинг, tree shaking, lazy loading и оптимизация чанков"
+                        }
+                    ]
+                },
+                {
+                    "name": "Производительность рендеринга",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Оптимизация перерисовок, перерасчётов, GPU-ускорение и использование will-change"
+                        }
+                    ]
+                },
+                {
+                    "name": "Оптимизация сети",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Использование HTTP/2, CDN, сжатия, стратегий кэширования и префетча"
+                        }
+                    ]
+                },
+                {
+                    "name": "Управление памятью",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Предотвращение утечек памяти, сборка мусора и профилирование производительности"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Security",
+            "topics": [
+                {
+                    "name": "Основы веб-безопасности",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Предотвращение XSS, CSRF и SQL-инъекций"
+                        }
+                    ]
+                },
+                {
+                    "name": "Content Security Policy",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Реализация CSP-заголовков безопасности и ограничений ресурсов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Аутентификация/Авторизация",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Работа с JWT, OAuth, управление сессиями и безопасное хранение токенов"
+                        }
+                    ]
+                },
+                {
+                    "name": "Заголовки безопасности",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Настройка HSTS, X-Frame-Options, X-Content-Type-Options"
+                        }
+                    ]
+                },
+                {
+                    "name": "Лучшие практики безопасности",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Проверка ввода, кодирование вывода и сканирование зависимостей на уязвимости"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Development Tools & Workflow",
+            "topics": [
+                {
+                    "name": "Контроль версий (Git)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Стратегии ветвления, rebase vs merge и рабочие процессы Git"
+                        }
+                    ]
+                },
+                {
+                    "name": "Пакетные менеджеры",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Работа с npm, yarn, pnpm, lock-файлами и управлением зависимостями"
+                        }
+                    ]
+                },
+                {
+                    "name": "Техники отладки",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Брейкпоинты, пошаговая отладка, отладка сети и мобильных устройств"
+                        }
+                    ]
+                },
+                {
+                    "name": "Инструменты качества кода",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Внедрение ESLint, Prettier, Husky, lint-staged для форматирования и качества"
+                        }
+                    ]
+                },
+                {
+                    "name": "Расширенные DevTools",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Профилирование производительности, памяти и аудит Lighthouse"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Modern JavaScript Ecosystem",
+            "topics": [
+                {
+                    "name": "Новые возможности ECMAScript",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Отслеживание ежегодных обновлений ECMAScript, полифилы и нужды транспиляции"
+                        }
+                    ]
+                },
+                {
+                    "name": "Паттерны управления состоянием",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Реализация Redux, NgRx, MobX и сервисного подхода к состоянию"
+                        }
+                    ]
+                },
+                {
+                    "name": "TypeScript Advanced",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Условные типы, отображаемые типы и типы-шаблонные литералы"
+                        }
+                    ]
+                },
+                {
+                    "name": "Функциональное программирование",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Иммутабельность, функции высшего порядка и композиция функций"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

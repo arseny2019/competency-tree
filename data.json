@@ -1,0 +1,1144 @@
+{
+    "competencies": [
+        {
+            "name": "HTML",
+            "topics": [
+                {
+                    "name": "HTML Document Structure",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Understanding HTML document structure including DOCTYPE, html, head, and body elements"
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic HTML Elements",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with headings, paragraphs, lists, links, images, divs, and spans"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML Form Elements",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Creating forms with input fields, selects, textareas, buttons and implementing validation"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML Media Elements",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using img, video, audio, canvas, and SVG elements for media content"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML Element Attributes",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Applying id, class, data-*, aria-* attributes and understanding global attributes"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML Meta Tags",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using meta tags for SEO optimization, viewport configuration, and page metadata"
+                        }
+                    ]
+                },
+                {
+                    "name": "Semantic Markup",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing semantic HTML5 elements like header, footer, article, section, nav for better accessibility"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTML Accessibility",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Applying ARIA attributes and ensuring screen reader compatibility and keyboard navigation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CSS",
+            "topics": [
+                {
+                    "name": "CSS Selectors",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using class, ID, attribute, pseudo-class selectors and understanding specificity"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Box Model",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Understanding content, padding, border, margin and box-sizing properties"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Background",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with background colors, images, gradients, and positioning"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Layout",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Mastering Flexbox and CSS Grid layouts along with float and display properties"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Position",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Applying static, relative, absolute, fixed, sticky positioning and z-index"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Typography",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Styling fonts, line-height, letter-spacing, text alignment and using web fonts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Responsive Design",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing responsive layouts with media queries, viewport units, and mobile-first approach"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Functions",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using calc(), var(), rgb(), hsl() functions and creating gradients"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Variables",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with CSS custom properties, understanding scope, fallbacks, and theming"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Animations",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Creating animations with keyframes, transitions, transforms and optimizing performance"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Pseudo-classes",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Applying :hover, :focus, :nth-child() pseudo-classes and form state selectors"
+                        }
+                    ]
+                },
+                {
+                    "name": "CSS Pseudo-elements",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using ::before, ::after, ::first-letter, ::selection for decorative content"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Core JavaScript",
+            "topics": [
+                {
+                    "name": "JavaScript Data Types",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Understanding primitives, objects, type coercion, and typeof operator"
+                        }
+                    ]
+                },
+                {
+                    "name": "Variables",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with var, let, const, understanding hoisting and temporal dead zone"
+                        }
+                    ]
+                },
+                {
+                    "name": "Operators",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using arithmetic, comparison, logical, assignment, and ternary operators"
+                        }
+                    ]
+                },
+                {
+                    "name": "Conditional Expressions",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Implementing if/else, switch statements, ternary operator and truthy/falsy values"
+                        }
+                    ]
+                },
+                {
+                    "name": "Functions",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Creating function declarations, expressions, arrow functions with parameters and return values"
+                        }
+                    ]
+                },
+                {
+                    "name": "Loops",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using for, while, do-while loops and array methods like forEach, map, filter, reduce"
+                        }
+                    ]
+                },
+                {
+                    "name": "Global Objects",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with Math, Date, JSON, console objects and browser window object"
+                        }
+                    ]
+                },
+                {
+                    "name": "Context (this)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Understanding function context, method context, arrow functions and bind/call/apply methods"
+                        }
+                    ]
+                },
+                {
+                    "name": "Scope",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Understanding global scope, function scope, block scope, and lexical scoping"
+                        }
+                    ]
+                },
+                {
+                    "name": "Asynchronous Code",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with callbacks, promises, async/await and error handling patterns"
+                        }
+                    ]
+                },
+                {
+                    "name": "Event Loop",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Understanding call stack, task queue, microtask queue, and browser rendering cycle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Events",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Handling event bubbling/capturing, implementing event delegation and custom events"
+                        }
+                    ]
+                },
+                {
+                    "name": "ES Modules",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using import/export syntax, named and default exports, and working with module bundlers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Object and Array Methods",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Mastering map, filter, reduce methods, Object.keys() and destructuring assignments"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pure Functions",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Creating pure functions without side effects and understanding functional programming principles"
+                        }
+                    ]
+                },
+                {
+                    "name": "Regular Expressions",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using pattern matching with test(), match(), replace() methods and regex syntax"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Browser APIs & Web Technologies",
+            "topics": [
+                {
+                    "name": "File API",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with FileReader, Blob, File objects and handling file uploads with FormData"
+                        }
+                    ]
+                },
+                {
+                    "name": "Date and Time",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Using Date object for date manipulation, formatting, timezones and working with date libraries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Virtual DOM",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Understanding Virtual DOM reconciliation, diffing algorithms and performance optimization"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shadow DOM",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with Shadow DOM encapsulation, custom elements, shadow root and slots"
+                        }
+                    ]
+                },
+                {
+                    "name": "Browser Dev Tools",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using Elements panel, Console, Network tab, and performance profiling tools"
+                        }
+                    ]
+                },
+                {
+                    "name": "LocalStorage/SessionStorage",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Implementing client-side storage with LocalStorage and SessionStorage, understanding limitations"
+                        }
+                    ]
+                },
+                {
+                    "name": "Geolocation API",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Accessing position data, handling permissions and accuracy in geolocation applications"
+                        }
+                    ]
+                },
+                {
+                    "name": "Web Workers",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using background threads for performance optimization and implementing message passing"
+                        }
+                    ]
+                },
+                {
+                    "name": "IndexedDB",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with client-side database, transactions, indexing for offline applications"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "topics": [
+                {
+                    "name": "TypeScript Types",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with basic types, union types, intersection types, and type aliases"
+                        }
+                    ]
+                },
+                {
+                    "name": "Interfaces",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Defining object shapes with interfaces, optional properties, readonly properties and interface extension"
+                        }
+                    ]
+                },
+                {
+                    "name": "Enums",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using numeric enums, string enums, const enums and understanding reverse mappings"
+                        }
+                    ]
+                },
+                {
+                    "name": "Type Annotations",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Applying type annotations to variables, function parameters and return types"
+                        }
+                    ]
+                },
+                {
+                    "name": "Utility Types",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using Partial, Required, Pick, Omit, Record utility types and conditional types"
+                        }
+                    ]
+                },
+                {
+                    "name": "Decorators",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing class decorators, method decorators, property decorators and parameter decorators"
+                        }
+                    ]
+                },
+                {
+                    "name": "Generics",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with type parameters, generic functions, generic interfaces and generic constraints"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Networking",
+            "topics": [
+                {
+                    "name": "HTTP Requests",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Making GET, POST, PUT, DELETE requests using fetch API and XMLHttpRequest"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTP Status Codes",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Understanding 200, 201, 400, 401, 403, 404, 500, 503 status codes and their meanings"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTP Headers",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with Content-Type, Authorization, Cache-Control headers and CORS headers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookies",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Managing session cookies, expiration, secure flags and same-site policy"
+                        }
+                    ]
+                },
+                {
+                    "name": "CORS",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Handling cross-origin requests, preflight requests and credentials management"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTPS/SSL",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Understanding encryption, SSL certificates, TLS handshake and security principles"
+                        }
+                    ]
+                },
+                {
+                    "name": "WebSockets",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing real-time bidirectional communication with WebSockets and socket.io"
+                        }
+                    ]
+                },
+                {
+                    "name": "WebRTC",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with peer-to-peer communication, video/audio streaming and data channels"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSH",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using secure shell for remote server access and key-based authentication"
+                        }
+                    ]
+                },
+                {
+                    "name": "DNS",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Understanding domain name resolution, DNS records and caching mechanisms"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Angular",
+            "topics": [
+                {
+                    "name": "Angular Core Entities",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with modules, components, services, directives, and pipes in Angular"
+                        }
+                    ]
+                },
+                {
+                    "name": "Directives",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using structural directives (*ngIf, *ngFor), attribute directives and creating custom directives"
+                        }
+                    ]
+                },
+                {
+                    "name": "Modules",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Organizing applications with NgModule, feature modules, lazy loading and shared modules"
+                        }
+                    ]
+                },
+                {
+                    "name": "Components",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Creating components with templates, styles, lifecycle hooks and Input/Output properties"
+                        }
+                    ]
+                },
+                {
+                    "name": "Services",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing Injectable services, singleton pattern and business logic separation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pipes",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using built-in pipes, creating custom pipes, pure/impure pipes and async pipe"
+                        }
+                    ]
+                },
+                {
+                    "name": "Guards",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing CanActivate, CanDeactivate guards for route protection and authentication"
+                        }
+                    ]
+                },{
+                    "name": "Resolvers",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using resolvers for pre-fetching data and route data preparation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Routing",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Configuring router, working with route parameters, child routes and navigation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Angular Forms",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing template-driven forms, reactive forms, validation and FormBuilder"
+                        }
+                    ]
+                },
+                {
+                    "name": "Change Detection",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Optimizing with OnPush strategy, immutability, async pipe and manual change detection"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Encapsulation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Understanding Shadow DOM, Emulated, None view encapsulation and style isolation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dependency Injection",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with providers, injectors, hierarchical injection and Injectable decorator"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Build Tools & Architecture",
+            "topics": [
+                {
+                    "name": "Webpack Module Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing micro-frontends with shared dependencies and remote applications"
+                        }
+                    ]
+                },
+                {
+                    "name": "Native Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using framework-agnostic module sharing and runtime integration"
+                        }
+                    ]
+                },
+                {
+                    "name": "HTTP Proxy Middleware",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Setting up development proxies, API mocking and CORS avoidance"
+                        }
+                    ]
+                },
+                {
+                    "name": "View Engine vs Ivy Engine",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Understanding Angular compilation differences, tree-shaking and performance optimizations"
+                        }
+                    ]
+                },
+                {
+                    "name": "Module Bundlers",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with Webpack, Vite, Rollup for code splitting and asset optimization"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Testing & Deployment",
+            "topics": [
+                {
+                    "name": "Unit Tests",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Writing isolated tests, using test doubles and following test pyramid principles"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jest",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using Jest test runner, assertions, mocking, snapshot testing and coverage reports"
+                        }
+                    ]
+                },
+                {
+                    "name": "CI/CD",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing continuous integration, continuous deployment pipelines and automation"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSR (Server-Side Rendering)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using Angular Universal for server-side rendering, SEO benefits and performance"
+                        }
+                    ]
+                },
+                {
+                    "name": "SSG (Static Site Generation)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing static site generation, Jamstack architecture and build-time generation"
+                        }
+                    ]
+                },
+                {
+                    "name": "SPA (Single Page Application)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Building single page applications with client-side routing and dynamic updates"
+                        }
+                    ]
+                },
+                {
+                    "name": "PWA (Progressive Web App)",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Creating progressive web apps with service workers, offline capability and app-like experience"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Software Design & Architecture",
+            "topics": [
+                {
+                    "name": "Key Software Development Principles",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Applying DRY, KISS, YAGNI principles and separation of concerns"
+                        }
+                    ]
+                },
+                {
+                    "name": "Clean Architecture",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing layered architecture, dependency rule and use case organization"
+                        }
+                    ]
+                },
+                {
+                    "name": "SOLID Principles",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Applying Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion"
+                        }
+                    ]
+                },
+                {
+                    "name": "Structural Patterns",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing Adapter, Decorator, Facade, Composite, Proxy patterns"
+                        }
+                    ]
+                },
+                {
+                    "name": "OOP Fundamentals",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Understanding encapsulation, inheritance, polymorphism and abstraction"
+                        }
+                    ]
+                },
+                {
+                    "name": "Creational Patterns",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using Factory, Singleton, Builder, Prototype patterns for object creation"
+                        }
+                    ]
+                },
+                {
+                    "name": "Behavioral Patterns",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing Observer, Strategy, Command, Iterator, State patterns"
+                        }
+                    ]
+                },
+                {
+                    "name": "MV Patterns",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with MVC, MVVM, MVP patterns for separation of concerns and data binding"
+                        }
+                    ]
+                },
+                {
+                    "name": "Inversion of Control",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing dependency injection, service locator pattern and IoC containers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Feature-sliced Design",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Organizing code by features with vertical slicing and feature-based architecture"
+                        }
+                    ]
+                },
+                {
+                    "name": "Micro-frontends",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Building micro-frontend architectures with independent deployment and team autonomy"
+                        }
+                    ]
+                },
+                {
+                    "name": "GRASP Principles",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Applying High Cohesion, Low Coupling, Controller, Creator, Pure Fabrication principles"
+                        }
+                    ]
+                },
+                {
+                    "name": "Module Federation",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing runtime integration, shared dependencies and federated architecture"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Performance Optimization",
+            "topics": [
+                {
+                    "name": "Core Web Vitals",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Optimizing LCP (Largest Contentful Paint), FID (First Input Delay), CLS (Cumulative Layout Shift)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bundle Optimization",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing code splitting, tree shaking, lazy loading and chunk optimization"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rendering Performance",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Optimizing repaints, reflows, GPU acceleration and using will-change property"
+                        }
+                    ]
+                },
+                {
+                    "name": "Network Optimization",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using HTTP/2, CDN, compression, caching strategies and prefetching techniques"
+                        }
+                    ]
+                },
+                {
+                    "name": "Memory Management",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Preventing memory leaks, understanding garbage collection and performance profiling"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Security",
+            "topics": [
+                {
+                    "name": "Web Security Fundamentals",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Preventing XSS (Cross-Site Scripting), CSRF (Cross-Site Request Forgery) and SQL injection"
+                        }
+                    ]
+                },
+                {
+                    "name": "Content Security Policy",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing CSP security headers and resource restrictions"
+                        }
+                    ]
+                },
+                {
+                    "name": "Authentication/Authorization",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Working with JWT, OAuth, session management and secure token storage"
+                        }
+                    ]
+                },
+                {
+                    "name": "Security Headers",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Configuring HSTS, X-Frame-Options, X-Content-Type-Options headers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Security Best Practices",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing input validation, output encoding and dependency vulnerability scanning"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Development Tools & Workflow",
+            "topics": [
+                {
+                    "name": "Version Control (Git)",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using branching strategies, rebase vs merge and Git workflows"
+                        }
+                    ]
+                },
+                {
+                    "name": "Package Managers",
+                    "concepts": [
+                        {
+                            "level": "junior",
+                            "name": "Working with npm, yarn, pnpm, lock files and dependency management"
+                        }
+                    ]
+                },
+                {
+                    "name": "Debugging Techniques",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Using breakpoints, step debugging, network debugging and mobile debugging"
+                        }
+                    ]
+                },
+                {
+                    "name": "Code Quality Tools",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Implementing ESLint, Prettier, Husky, lint-staged for code formatting and quality"
+                        }
+                    ]
+                },
+                {
+                    "name": "Browser DevTools Advanced",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Using performance profiling, memory profiling and Lighthouse audits"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Modern JavaScript Ecosystem",
+            "topics": [
+                {
+                    "name": "ECMAScript New Features",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Keeping up with annual ECMAScript updates, polyfills and transpilation needs"
+                        }
+                    ]
+                },
+                {
+                    "name": "State Management Patterns",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Implementing Redux, NgRx, MobX patterns and service-based state management"
+                        }
+                    ]
+                },
+                {
+                    "name": "TypeScript Advanced",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Working with conditional types, mapped types and template literal types"
+                        }
+                    ]
+                },
+                {
+                    "name": "Functional Programming",
+                    "concepts": [
+                        {
+                            "level": "senior",
+                            "name": "Applying immutability, higher-order functions and function composition"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
