@@ -5,5 +5,9 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [react(), tailwind()],
   output: 'static',
-  site: 'https://your-domain.com'
+  site: 'https://arseny2019.github.io',
+  base: '/competency-tree',
+  build: {
+    assets: '_astro'
+  }
 });
