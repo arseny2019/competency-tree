@@ -336,6 +336,15 @@
                             "name": "Using pattern matching with test(), match(), replace() methods and regex syntax"
                         }
                     ]
+                },
+                {
+                    "name": "Intersection API",
+                    "concepts": [
+                        {
+                            "level": "middle",
+                            "name": "Use cases for Intersection API"
+                        }
+                    ]
                 }
             ]
         },
